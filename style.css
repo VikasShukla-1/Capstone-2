@@ -1,0 +1,108 @@
+
+
+body{
+    text-align: center;
+    margin: 0;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+}
+
+
+.top-container{
+    background-color:#92B4EC;
+    /* height: 250px; */
+    margin: 0;
+    padding: 50px 0;
+}
+.imgs{
+   margin: 10px;
+    
+}
+.left>img{
+    border-radius: 50%;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+
+h2{
+    font-size: 2rem;
+}
+
+.heading {
+  font-family: "Playwrite CO", cursive;
+  font-optical-sizing: auto;
+  font-weight: 4000;
+  font-style: normal;
+  font-size: 5rem;
+  margin: 0;
+}
+
+.subhead {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 4000;
+    font-style: normal;
+    font-size: 2.5rem;
+  }
+
+  .title-text{
+    color: midnightblue;
+  }
+
+  .profile-img{
+    height: 150px;
+    width:  150px;
+    border-radius: 50%;
+    border: 15px double midnightblue;
+  }
+
+  .mid-container{
+    background-color: white;
+    margin: 100px 0 0 0;
+  }
+  .mid-container-2{
+    background-color: #FFE69A;
+    margin: 100px 0 0 0;
+    height: 321px;
+  }
+
+  .btn{
+    background-image: midnightblue;
+    color: white;
+    font-size: 20px;
+    padding: 5px 15px ;
+    text-decoration: none;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, #114fd4, #11399e);
+
+  }
+  .resume>a{
+    text-decoration:none;
+    /* background-image: linear-gradient(to bottom, #114fd4, #11399e); */
+    /* background-color: red; */
+
+  }
+
+  
+
+  .bottom-container{
+    background-color: #FFD24C;
+    padding: 50px 0 ;
+  }
+  .footer-link{
+    margin: 10px 20px;
+    text-decoration: none;
+    
+  }
+  /* hr{
+    border: dotted red 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  } */
